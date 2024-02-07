@@ -253,7 +253,7 @@ const projects = [
       },
     ],
     image: job2,
-    source_code_link: "hhttps://github.com/WallacyFernandez",
+    source_code_link: "https://github.com/WallacyFernandez",
   },
   {
     name: "Website Semite",
